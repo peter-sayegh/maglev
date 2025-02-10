@@ -1,2 +1,4 @@
-# maglev
+# Maglev
 This repository contains the code and experimental data used in the paper "Dynamic Stability and Levitation Control in Maglev Systems" by P. Sayegh, H. Déo, Y. Abou Rabii, and Pr. A. Couairon.
+
+This work provides tools for optimizing the stability and levitation of Maglev trains. To optimize passenger capacity,  we derive an expression for levitation height as a function of additional weight, refining this model by fitting free parameters to a scaled-down experimental Electromagnetic Suspension (EMS) train. We construct a mathematical model for an Electrodynamic Suspension (EDS) Maglev system, and develop the analytical expressions that describe the system’s behavior, ultimately simulating them under standard and extreme conditions. This approach accurately predicts levitation dynamics, with applications toward safer and more efficient Maglev systems and offers groundwork for further stability and load capacity improvements.
