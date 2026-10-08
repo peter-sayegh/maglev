@@ -2,7 +2,7 @@
  
 Experimental data and code for the paper:
  
-> P. A. Sayegh, H. Déo, Y. Abou Rabii and A. Couairon, "Levitation and stability in maglev systems," *European Journal of Physics* (2026). [doi:10.1088/1361-6404/aeaab7](https://doi.org/10.1088/1361-6404/aeaab7)
+> P. A. Sayegh, H. Déo, Y. Abou Rabii and A. Couairon, "Levitation and stability in Maglev systems," *European Journal of Physics* (2026). [doi:10.1088/1361-6404/aeaab7](https://doi.org/10.1088/1361-6404/aeaab7)
  
 ## About the project
  
