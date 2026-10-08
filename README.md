@@ -1,4 +1,4 @@
-# Levitation and Stability in Maglev Systems
+# Levitation and stability in Maglev Systems
  
 Experimental data and code for the paper:
  
